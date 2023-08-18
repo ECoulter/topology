@@ -583,3 +583,48 @@
   Services:
   - net.perfSONAR.Bandwidth
 # ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 1573716052
+  Description: Squid outage
+  Severity: Severe
+  StartTime: Aug 18, 2023 15:00 +0000
+  EndTime: Aug 22, 2023 21:00 +0000
+  CreatedTime: Aug 18, 2023 15:13 +0000
+  ResourceName: Georgia_Tech_PACE_CE_2
+  Services:
+  - CE
+  - Squid
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 1573716053
+  Description: Squid outage
+  Severity: Severe
+  StartTime: Aug 18, 2023 15:00 +0000
+  EndTime: Aug 22, 2023 21:00 +0000
+  CreatedTime: Aug 18, 2023 15:13 +0000
+  ResourceName: Georgia_Tech_PACE_CE_ICECUBE
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 1573716054
+  Description: Squid outage
+  Severity: Severe
+  StartTime: Aug 18, 2023 15:00 +0000
+  EndTime: Aug 22, 2023 21:00 +0000
+  CreatedTime: Aug 18, 2023 15:13 +0000
+  ResourceName: Georgia_Tech_PACE_CE_LIGO
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 1573716055
+  Description: Squid outage
+  Severity: Severe
+  StartTime: Aug 18, 2023 15:00 +0000
+  EndTime: Aug 22, 2023 21:00 +0000
+  CreatedTime: Aug 18, 2023 15:13 +0000
+  ResourceName: Georgia_Tech_PACE_CE_OSG
+  Services:
+  - CE
+# ---------------------------------------------------------
